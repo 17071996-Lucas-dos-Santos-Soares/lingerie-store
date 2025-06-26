@@ -463,9 +463,9 @@ h3.card-text{
 
 .contact-box i:hover {
   transition: all 0.2s;
-  background-color: #65DAF9;
+  background-color: #d81b60;
   color: #fff;
-  border: 1px solid #65daf9;
+  border: 1px solid #0D0D0D;
   margin-top: -10px;
 }
 .contact-box p {
@@ -473,8 +473,8 @@ h3.card-text{
   text-align: center;
 }
 .contact-title {
-  font-weight: bold;
-  color: #3ec1d5;
+  font-weight: 500;
+  color: #c2185b;
 }
 #contact-form input[type="text"], #contact-form input[type="email"], #contact-form textarea {
   margin-bottom: 15px;
@@ -510,7 +510,6 @@ h3.card-text{
 }
 .icons i {
   color: #444;
-  margin-top: -20px;
 }
 .icons i:hover {
   transition: all .2s ease-in-out;
