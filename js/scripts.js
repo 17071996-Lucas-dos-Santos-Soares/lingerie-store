@@ -171,12 +171,6 @@ $(document).ready(function () {
 });
 
 // animações
-window.revelar = ScrollReveal({reset:true})
-revelar.reveal('.main-title', {
-  duration: 2000,
-  distance: '90px'
-})
-
 revelar.reveal('.service1', {
   duration: 2000,
   distance: '90px',
