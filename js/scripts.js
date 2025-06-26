@@ -232,12 +232,6 @@ revelar.reveal('.about-text', {
   delay: 1000,
   origin: 'right'
 })
-
-revelar.reveal('.animate-products', {
-  duration: 2000,
-  distance: '90px'
-})
-
 revelar.reveal('.fone', {
   duration: 2000,
   distance: '90px',
