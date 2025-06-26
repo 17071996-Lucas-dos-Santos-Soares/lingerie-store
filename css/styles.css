@@ -262,15 +262,6 @@ height: 98vh;
   margin-top: 20px;
 }
 
-#team-area {
-  background-color: #F9F9F9;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 30px;
-}
-
 .card {
   text-align: center;
 }
@@ -519,6 +510,7 @@ h3.card-text{
 }
 .icons i {
   color: #444;
+  margin-top: -20px;
 }
 .icons i:hover {
   transition: all .2s ease-in-out;
@@ -749,6 +741,6 @@ img.img-fluid {
 }
 
 /* animações */
-.main-title, .about-text, .about-img, .service1, .service2, .service3, .service4, .service5, .service6, .animate-products, .fone, .email, .local{
+.service1, .service2, .service3, .service4, .service5, .service6{
   visibility: hidden;
 }
